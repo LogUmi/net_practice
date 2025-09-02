@@ -61,7 +61,7 @@ Open the `.json` with any text editor and the `.png` with an image viewer to rev
 ├── img/                # Content for README
 ├── results/            # json files and screen shots of the 10 levels accomplished
 ├── fr.subject.pdf      # Subject file
-├── LICENSE.txt          # License MIT
+├── LICENSE.txt         # License MIT
 └── README.md
 ```
 
