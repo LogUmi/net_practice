@@ -73,7 +73,7 @@ $ cat net_practice/results/level2.json
 {"routes":{},"ifs":{"A1":{"ip":"192.168.63.221"},"B1":{"mask":"255.255.255.224"},"C1":{"ip":"192.168.63.253"},"D1":{"ip":"192.168.63.254"}}}%
 ```
 
-<img src="./img/results/level2.png" height="500"/>
+<img src="./results/level2.png" height="500"/>
 
 ---
 
