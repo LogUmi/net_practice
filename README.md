@@ -1,7 +1,5 @@
-# Net Practice – 42 project
-
 <div align="center">
-  <h2>NetPractice – Networking Basics</h2>
+  <h1>NetPractice – Networking Basics</h1>
   <img src="./img/net_practice.png"/>
   <br>
 </div>
@@ -61,7 +59,7 @@ Open the `.json` with any text editor and the `.png` with an image viewer to rev
 ├── img/                # Content for README
 ├── results/            # json files and screen shots of the 10 levels accomplished
 ├── fr.subject.pdf      # Subject file
-├── LICENSE.txt         # License MIT
+├── LICENSE		        # License MIT
 └── README.md
 ```
 
@@ -82,10 +80,15 @@ $ cat net_practice/results/level2.json
 This project is the original version that was evaluated at 42 and will remain in this state.  
 
 ---
+
 ## 👤 Credits
-Project solved by **Loïc Gérard** – student at [École 42 Perpignan](https://42perpignan.fr).  
+Project developed by **Loïc Gérard** – 📧 Contact: lgerard@studend.42perpignan.fr - [École 42 Perpignan](https://42perpignan.fr).
 
 ---
 
 ## 📜 License
-MIT License – see the [LICENSE.txt](./LICENSE.txt) file for details.
+This project is licensed under the MIT License. You are free to use, modify, and distribute it - see the [LICENSE](./LICENSE) file for details.
+
+> ⚠️ **Note for students**  
+> If you are a student at 42 (or elsewhere), it is strongly recommended **not to copy/paste** this code.  
+> Instead, try to **write your own solution** — it’s the only way to really learn and succeed.
